@@ -51,27 +51,41 @@
 <br clear="both">
 
 <div align="left">
+  <span>
   <a href="https://x.com/adam_abaker_pro" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="40" alt="twitter logo"  />
   </a>
+  </span>
+  <apan>
   <a href="https://www.youtube.com/@atroid_code" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="62" height="40" alt="youtube logo"  />
   </a>
+  </apan>
+  <span>
   <a href="https://www.linkedin.com/in/adam-abaker-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="40" alt="linkedin logo"  />
   </a>
+  </span>
+  <apan>
   <a href="https://www.facebook.com/adam.abaker.pro/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="62" height="40" alt="facebook logo"  />
   </a>
+  </apan>
+  <span>
   <a href="adam.abaker.dev@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="40" alt="gmail logo"  />
   </a>
+  </span>
+<span>
   <a href="https://www.instagram.com/adam_abaker.pro/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="40" alt="instagram logo"  />
   </a>
+</span>
+<span>
   <a href="https://t.me/adam_abaker_dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="62" height="40" alt="telegram logo"  />
   </a>
+</span>
 </div>
 
 ###
